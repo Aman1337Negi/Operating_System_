@@ -142,7 +142,7 @@ Contributions and suggestions are welcome.
 
 ## Author
 
-**[Your Name]**
+**SINNER**
 GitHub: [@Aman1337Negi](https://github.com/Aman1337Negi)
 
 ---

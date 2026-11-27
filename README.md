@@ -84,13 +84,13 @@ python --version
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/[your-username]/[your-repository-name].git
+   git clone https://github.com/Aman1337Negi/Operating_System_.git
    ```
 
 2. **Move into the project folder**
 
    ```bash
-   cd [your-repository-name]
+   cd Operating_System_
    ```
 
 ---
@@ -143,7 +143,7 @@ Contributions and suggestions are welcome.
 ## Author
 
 **[Your Name]**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@Aman1337Negi](https://github.com/Aman1337Negi)
 
 ---
 
